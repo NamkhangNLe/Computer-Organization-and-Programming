@@ -3,6 +3,6 @@
 
 int main()
 {
+    // functions without ()
     int x = SUBTRACT(5, 3 + 4);
-    printf("%d", x);
 }
